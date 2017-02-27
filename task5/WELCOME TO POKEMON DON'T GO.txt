@@ -1,0 +1,151 @@
+WELCOME TO POKEMON DON'T GO
+
+Name your primary player (or type "I suck at life" to quit): padawan
+
+Go on, padawan, choose away ...
+1. PvP!
+2. Pokedex pls
+3. Show me my stats!
+4. I suck in life and want to quit
+(1/2/3/...): 2
+
+Press enter to continue.
+[cls]
+
+POKEMON DON'T GO
+
+You currently have:
+1. [Burnie Manders (Charmander) of padawan][FIRE][25/25HP|100CP]
+[movesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmoves]
+    - Evolution cost: 200 gems (to stage 2 of 3)
+
+2. [Neil deGrass Tysaur (Bulbusaur) of padawan][GRASS, POISON][25/25HP|100CP]
+[movesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmoves]
+    - Evolution cost: 200 gems (to stage 2 of 3)
+
+3. [Thorachu (Pichu) of padawan][ELECTRIC][25/25HP|100CP]
+[movesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmovesmoves]
+    - Evolution cost: 200 gems (to stage 2 of 3)
+
+You have 1000 gems. 
+A. Evolve one of em!
+B. More pokeballs! -> (You got x pokeballs. You now have 1+x pokeballs./You can't carry mor than 5 pokeballs padawan!)
+C. Heal a hurt buddy :'(   (costs 1 pokeball) -> //
+D. Recharge a tired guy :| (costs 1 pokeball) -> //
+E. Imma go back
+(A/B/C/...): A
+
+Sure 'bout it? (y/n)... y
+A'ight then. (/Yeah, I wasn't sure either.)
+
+Thorachu (Pichu) is evolving!
+Thorachu is now a(n) Pikachu.
+
+You have 800 gems.
+
+Type something to clear the screen ...
+[cls]
+
+You currently have:
+1. [Burnie Manders (Charmander) of padawan][FIRE][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+2. [Neil deGrass Tysaur (Bulbusaur) of padawan][GRASS, POISON][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+3. [Thorachu (Pichu) of padawan][ELECTRIC][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+You have 1000 gems. 
+A. Evolve one of em!
+B. More pokeballs!
+C. Heal a hurt buddy :'(   (costs 1 pokeball) (-> choose ... [Pokemon] was healed!)
+D. Recharge a tired guy :| (costs 1 pokeball) (-> choose ... [Pokemon] was recharged!)
+E. Imma go back
+(A/B/C/...): E
+
+POKEMON DON'T GO
+
+Go on, padawan, choose away ...
+1. PvP!
+2. Pokedex pls
+3. Show me my stats!
+4. I suck in life and want to quit
+(1/2/3/...) 3
+
+Type something to clear the screen ...
+[cls]
+
+POKEMON DON'T GO
+
+Your stats, padawan...
+Pokeballs         : 5
+Gems              : 800
+
+Pokemon captured  : 3
+Pokemon healed    : 0
+Pokemon recharged : 0
+Pokeballs spent   : 3
+Gems spent        : 200
+
+Type something to clear the screen ...
+[cls]
+
+POKEMON DON'T GO
+Go on, padawan, choose away ...
+1. PvP!
+2. Pokedex pls
+3. Show me my stats!
+4. I suck in life and want to quit
+(1/2/3/4/...) 1
+
+Yeah! Now we're talking!! I guess there must be two of you now!
+Wait ... Why can't you go against me yet?
+Oh, I don't exactly like (read: I'm not good at) text-based games, so I'll skip for now.
+But don't worry! You can still battle with pokemon if you have 2 people here!
+After all, this is just a test ...
+
+PADAWAN! CHOOSE A POKEMON!
+You currently have:
+1. [Burnie Manders (Charmander) of padawan][FIRE][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+2. [Neil deGrass Tysaur (Bulbusaur) of padawan][GRASS, POISON][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+3. [Thorachu (Pichu) of padawan][ELECTRIC][25/25HP|100CP]
+    - Evolution cost:200 (to stage 2/3)
+
+(1/2/3/...): 3
+
+YOU CHOSE THORACHU (PIKACHU)!
+
+HEY OTHER GUY! CHOOSE A POKEMON!
+You currently have:
+1. [The whole global pokedex]
+
+[choice]
+[if same: Thorachu vs ... Thorachu?? Okey-dokey, LET'S RUMBLE!! / Thorachu vs Burnie Manders!! LET'S RUMBLE!!]
+
+Type something to clear the screen ...
+[cls]
+
+BATTLE STATS
+[Thorachu]
+
+[other pokemon]
+
+PADAWAN! WHAT WILL YOU MAKE YOUR POKEMON DO? (goes on till either HP is 0)
+1. Hit
+2. Use IRON TAIL
+3. Flee
+(1/2/3/...): 2
+
+[attack stats]
+
+WINNER - [fullName of pokemon standing above 0HP]
+
+Type something to clear the screen ...
+[cls]
+
+[I suck in life and want to quit]

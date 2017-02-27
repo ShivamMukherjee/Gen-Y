@@ -1,0 +1,23 @@
+PUZZLE
+6x6 matrix
+
+You are at 0,0
+How many ways to reach 5,5
+
+ATTEMPT
+10 steps to end
+
+100000
+000000
+000000
+000000
+000000
+000001
+
+SOLUTION
+x11111
+123456
+136 
+14  A pascal square. It comes to C(10,5).
+15
+16

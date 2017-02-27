@@ -1,0 +1,37 @@
+/*Challenge: generate a magic square of n into n order. (Hint: n is odd)
+
+Start here: use modulo/subtract from range to roll-over bounds, on to the top diagonal neighbouring elements. If an element is already filled, offset by one row. Fill in numbers that add up to an odd number.
+	   (-1,0) (-1,1) (-1,2)
+(0,-1) (0,0)  (0,1)  (0,2)
+(1,-1) (1,0)  (1,1)  (1,2)
+(2,-1) (2,0)  (2,1)  (2,2)
+
+A formula applies for such squares: n*(n^2 + 1)/2. Works only if n is odd.
+*/
+
+#include <iostream>
+#include <map>
+#include <vector>
+
+class Square
+{
+	std::vector<std::vector<int>> matrix;
+	int n;
+
+	int get(int i, int j)
+	{
+		return matrix[n%i][n%j];
+	}
+
+	bool canBeMagical()
+	{
+		return (n % 2 == 1);
+	}
+
+	Square(int n)
+	{
+		this.n = n;
+	}
+
+	
+}
